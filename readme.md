@@ -1,12 +1,6 @@
 <!-- Title --> 
 # User Management with API Restful 
 
-<!-- Project Image --> 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=100% height=100% src="./assets/images/page.png" alt="Project logo"></a>
-</p>
-
 <!-- Who made it --> 
 ##### Tutorial by Hcode Treinamentos
 <!-- About the project --> 
@@ -20,9 +14,11 @@ and in restful we are connecting to our NeDB to create,save, edit or delete the 
 
 ```
 client-server port 3000
+npm install
 npm start
 
 restful port 4000
+npm install
 node index
 ```
 
@@ -32,11 +28,6 @@ node index
   * Express Generator
   * Restfi
   * Fetch Api
-
-<!-- See website --> 
-[Check Live](https://joaogalvesluiz.netlify.app/websites/loruki/index.html)
-<!-- See tutorial video  --> 
-[Video](https://www.youtube.com/watch?v=p0bGHP-PXD4&t)
 
 ### Contact
 E-mail: joaog.alvesluiz@gmail.com
